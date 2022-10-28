@@ -230,5 +230,4 @@ DEPENDENCIES
   webdrivers
   webpacker (~> 4.0)
 
-BUNDLED WITH
-   1.17.2
+
